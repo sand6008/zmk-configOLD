@@ -1,0 +1,8 @@
+file_format: "1"
+id: sandkbd
+name: sandkbd
+type: shield
+url: https://github.com/ramonimbao/Alice-like_Handwired
+requires: [nice!nano_v2]
+features:
+  - keys
