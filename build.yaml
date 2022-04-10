@@ -14,7 +14,7 @@
 ---
 include:
   - board: nice_nano_v2
-    shield: chalice
+    shield: sandkbd
 include:
   - board: nice_nano_v2
-    shield: chalice
+    shield: sandkbd
